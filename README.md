@@ -1,4 +1,4 @@
-##👋 Hi, I'm Banjesh Pandey  
+#👋 Hi, I'm Banjesh Pandey  
 
 🚀 **Full-Stack Developer | MERN Enthusiast | Backend-Focused Engineer**  
 🎓 B.Tech CSE (2026) | Passionate about building scalable web applications  
