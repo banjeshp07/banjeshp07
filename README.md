@@ -16,9 +16,6 @@
 <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
 </a>
 
-<a href="https://leetcode.com/u/banjeshp_07/">
-<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-</a>
 
 </div>
 
